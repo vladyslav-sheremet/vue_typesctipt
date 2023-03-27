@@ -1,0 +1,1 @@
+export const restaurantStatusList = ['Want to Try', 'Recommended', 'Do not Recommend', 'Must try'] as const
